@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ExplodingArrows" />
+        <module name="Player Tracker" />
+        <module name="ExplodingProjectiles" />
+        <module name="Jar Files" />
+        <module name="RacePlugin" />
+        <module name="Timer" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

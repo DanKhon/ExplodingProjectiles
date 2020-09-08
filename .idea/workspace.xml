@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ExplodingProjectiles:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="" />
+    <option name="COMMIT_PATTERN" value="{message}" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="ENABLE_SUITABLE_CONFIGURATION_CACHING" value="true" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ca58e41-d69f-4d45-a070-7e7302cf23d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="current" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/RacePlugin" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="danikhan12" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="RacePlugin" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="i810m1cu" />
+  </component>
+  <component name="ProjectId" id="1g9lgzXOHTDTCvNtKGoBGRmKiwc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.111328125" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.TheStuff.FinishAndStartingLine.FinishLineArea" />
+      <recent name="com.TheStuff.FinishAndStartingLine.Finish" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\16692\OneDrive\Desktop\Nukkit Projects\Jar Files\Projects I'm working on\RacePlugin" />
+      <recent name="C:\Users\16692\OneDrive\Desktop\Nukkit Projects\Jar Files\Projects I'm working on\RacePlugin\RacePlugin" />
+      <recent name="C:\Users\16692\OneDrive\Desktop\Nukkit Projects\Jar Files\src\main\resources" />
+      <recent name="C:\Users\16692\OneDrive\Desktop\Nukkit Projects\Jar Files\src\main" />
+      <recent name="C:\Users\16692\OneDrive\Desktop\Nukkit Projects\Jar Files\src\main\java" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ca58e41-d69f-4d45-a070-7e7302cf23d1" name="Default Changelist" comment="" />
+      <created>1597534803698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597534803698</updated>
+    </task>
+    <task id="LOCAL-00001" summary="I updated the plugin">
+      <created>1598830198143</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598830198143</updated>
+    </task>
+    <task id="LOCAL-00002" summary="I updated the plugin">
+      <created>1598832483032</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598832483032</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I updated the plugin" />
+    <option name="LAST_COMMIT_MESSAGE" value="I updated the plugin" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598117877427">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1598117877427" />
+    <state x="574" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1598908488428">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1598908488428" />
+    <state x="534" y="327" width="468" height="216" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1598576643683">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="534" y="327" width="468" height="216" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864@0.0.1536.864" timestamp="1598576643683" />
+    <state x="502" y="302" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1598327107819">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="502" y="302" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.864@0.0.1536.864" timestamp="1598327107819" />
+    <state x="294" y="1" width="947" height="586" key="CommitChangelistDialog2" timestamp="1598832482411">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="294" y="1" width="947" height="586" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1598832482411" />
+    <state x="147" y="69" key="DiffContextDialog" timestamp="1598832473951">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="147" y="69" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1598832473951" />
+    <state x="549" y="174" key="FileChooserDialogImpl" timestamp="1599415848322">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1599415848322" />
+    <state x="549" y="299" key="Github.CreatePullRequestDialog" timestamp="1598832550924">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="299" key="Github.CreatePullRequestDialog/0.0.1536.864@0.0.1536.864" timestamp="1598832550924" />
+    <state x="644" y="330" key="Github.ShareDialog" timestamp="1599525622713">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="644" y="330" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1599525622713" />
+    <state x="409" y="137" key="Github.UntrackedFilesDialog" timestamp="1598724032623">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="409" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1598724032623" />
+    <state x="402" y="135" key="RollbackChangesDialog" timestamp="1598832466818">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="402" y="135" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1598832466818" />
+    <state x="258" y="14" key="SettingsEditor" timestamp="1599522957215">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="258" y="14" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1599522957215" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1598831218027">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1598831218027" />
+    <state x="424" y="161" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1598832534070">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="424" y="161" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1536.864@0.0.1536.864" timestamp="1598832534070" />
+    <state x="93" y="93" width="1350" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1598832937448">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1598832937448" />
+    <state x="375" y="43" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598327025015">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="375" y="43" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.864@0.0.1536.864" timestamp="1598327025015" />
+    <state x="580" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598830779359">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="580" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1598830779359" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1598202083995">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1598202083995" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1599263304364">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1599263304364" />
+  </component>
+</project>
